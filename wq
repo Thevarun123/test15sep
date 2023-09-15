@@ -1,0 +1,53 @@
+[33mcommit 74a946600366932e65d0aaf140fec86e78730d3a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 54ccaee 291c5ad
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:53:47 2023 +0530
+
+    done by me
+    Merge branch 'br5'
+
+[33mcommit 54ccaee32d3182f894818a8a477a346f6eca1059[m
+Merge: ab96cb2 735da61
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:53:19 2023 +0530
+
+    Merge branch 'br3'
+    done by me
+
+[33mcommit ab96cb2da8ac9368b8ae2a4eeff321bf37df7c66[m
+Merge: 7b37a77 ebd0090
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:52:36 2023 +0530
+
+    Merge branch 'br2'
+    done by me
+
+[33mcommit 291c5adfec014c2e2853362ad852f8a71e268edb[m[33m ([m[1;31morigin/br5[m[33m, [m[1;32mbr5[m[33m)[m
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:51:11 2023 +0530
+
+    fifth commit
+
+[33mcommit 7b37a774b8bd9c88678b707b475ae4b484821c80[m[33m ([m[1;31morigin/br4[m[33m, [m[1;32mbr4[m[33m)[m
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:49:50 2023 +0530
+
+    fourth commit
+
+[33mcommit 735da61a0ae178317f88ae3bd9efb08a5273f39b[m[33m ([m[1;31morigin/br3[m[33m, [m[1;32mbr3[m[33m)[m
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:48:12 2023 +0530
+
+    third commit
+
+[33mcommit ebd0090966f551027541d029ccfabd362cfd84bc[m[33m ([m[1;31morigin/br2[m[33m, [m[1;32mbr2[m[33m)[m
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:46:16 2023 +0530
+
+    second commit
+
+[33mcommit 387906c95b53928522d793780cf19ec91436baa0[m[33m ([m[1;31morigin/br1[m[33m, [m[1;32mbr1[m[33m)[m
+Author: Varun gupta <varungupta5336@gmail.com>
+Date:   Fri Sep 15 13:08:06 2023 +0530
+
+    commit from br2
